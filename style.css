@@ -1,0 +1,7 @@
+:root{
+    --cor-de-fundo: #ebecee
+}
+body{
+        blackgroundcolor var(--cor-de-fundo)
+
+}
